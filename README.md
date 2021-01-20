@@ -17,7 +17,7 @@ git clone https://github.com/DeteccionDeIncendios/mobilApp.git
 
 2. Ejecute el proyecto usando android Studio.
 
-3. En caso de que no se desee ejecutar el proyecto, se adjunta el archivo APK más actual en el directorio principal de este repositorio, basta con instalar el archivo en un dispositivo android.
+3. En caso de que no se desee ejecutar el proyecto, se adjunta el archivo APK (IANOTIFIER.apk) más actual en el directorio principal de este repositorio, basta con instalar el archivo en un dispositivo android.
 
 # Uso
 
